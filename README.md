@@ -139,7 +139,7 @@ Start the frontend development server:
 
 ## Authors
 
-- [@Mandan Mishra](https://github.com/Mandan04)
+- [@Bhavya Kateja](https://github.com/bhavyakateja)
 
 
 ## Demo
