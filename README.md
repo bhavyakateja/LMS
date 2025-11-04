@@ -96,7 +96,7 @@ Prerequisites
 Clone the Repository
 
 ```bash
-git clone https://github.com/M-D-Nadeem/LMS_Project.git
+git clone https://github.com/bhavyakateja/LMS.git
 cd LMS_Project
 ```
 
@@ -142,7 +142,3 @@ Start the frontend development server:
 - [@Bhavya Kateja](https://github.com/bhavyakateja)
 
 
-## Demo
-
-
-[https://youtu.be/mBHtcaEGvSc](https://youtu.be/mBHtcaEGvSc)
